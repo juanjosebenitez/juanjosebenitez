@@ -13,5 +13,5 @@
 SKILLS
 
 ## Skills:
-[![Apple](https://img.shields.io/badge/.Net-999999?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
+[![.NET](https://img.shields.io/badge/.Net-5499C7?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=black)]()
 [![AWS](https://img.shields.io/badge/.AWS-999999?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
