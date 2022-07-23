@@ -9,9 +9,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-
-SKILLS
-
 ## Skills:
 [![.NET](https://img.shields.io/badge/.Net-5499C7?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=black)]()
 [![Node.js](https://img.shields.io/badge/Node.js-A9DFBF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)]()
