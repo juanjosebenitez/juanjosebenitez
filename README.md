@@ -9,3 +9,9 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
+
+SKILLS
+
+## Skills:
+[![Apple](https://img.shields.io/badge/.Net-999999?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/.AWS-999999?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
