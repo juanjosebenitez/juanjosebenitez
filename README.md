@@ -16,7 +16,10 @@
 [![React](https://img.shields.io/badge/React-EB984E?style=for-the-badge&logo=react&logoColor=white&labelColor=black)]()
 [![Java Spring Boot](https://img.shields.io/badge/Java%20Spring%20Boot-E74C3C?style=for-the-badge&logo=springboot&logoColor=white&labelColor=black)]()
 
-
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-EB984E?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=black)]()
+[![MySQL](https://img.shields.io/badge/MySQL-F4D03F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5DADE2?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)]()
+[![DynamoBD](https://img.shields.io/badge/DynamoDB-5DADE2?style=for-the-badge&logo=amazondynamodb&logoColor=white&labelColor=black)]()
 
 [![AWS](https://img.shields.io/badge/AWS-82E0AA?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black)]()
 [![AzureDevops](https://img.shields.io/badge/Azure%20Devops-AED6F1?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=black)]()
